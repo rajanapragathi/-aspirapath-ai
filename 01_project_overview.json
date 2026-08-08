@@ -1,0 +1,31 @@
+{
+  "project": {
+    "name": "AspiraPath AI",
+    "tagline": "From Aspiration to Achievable",
+    "platform": "AWS PartyRock",
+    "type": "Generative AI Career and Education Guidance Platform",
+    "target_users": [
+      "Students",
+      "Graduates",
+      "Career switchers",
+      "Educators",
+      "Career counselors"
+    ]
+  },
+  "problem_statement": {
+    "title": "Bridging Career Aspiration and Achievable Action",
+    "description": "Students often know what career they want but lack clarity about qualifications, skills, courses, certifications, projects, costs, study time, location requirements and practical next steps.",
+    "key_problem": "Generic career guidance often does not consider an individual student's academic profile, skills, budget, time and geographic constraints."
+  },
+  "proposed_solution": {
+    "description": "AspiraPath AI uses Generative AI to analyze a student's profile, career aspiration and constraints and generate a personalized education and career pathway.",
+    "workflow": [
+      "Aspiration",
+      "Analysis",
+      "Skill Gap",
+      "Options",
+      "Roadmap",
+      "Action Plan"
+    ]
+  }
+}
