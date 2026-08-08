@@ -1,0 +1,26 @@
+{
+  "future_scope": [
+    "Student accounts and progress tracking",
+    "Course catalog integration",
+    "Scholarship database integration",
+    "Job platform integration",
+    "College dashboards",
+    "Multilingual support",
+    "Real-time verified career information",
+    "RAG-based knowledge retrieval",
+    "Institutional integration"
+  ],
+  "hackathon_demo_flow": [
+    "Enter student profile",
+    "Enter the aspiration: I want to become an AI Engineer",
+    "Show career feasibility analysis",
+    "Show skill-gap analysis",
+    "Show personalized roadmap",
+    "Change budget from ₹50,000 to ₹10,000",
+    "Run the What-If Simulator",
+    "Show the revised low-cost pathway",
+    "Show the next 7-day action plan"
+  ],
+  "innovation_statement": "AspiraPath AI is a constraint-aware Generative AI career navigator that dynamically converts a student's aspirations and real-world limitations into personalized education, skill and career pathways.",
+  "pitch": "Every student has a dream, but not every student knows the path to reach it. AspiraPath AI takes a student's aspiration, academic profile, skills, budget, time and location constraints and transforms them into a personalized career roadmap. It identifies skill gaps, recommends education pathways, projects and certification categories, creates a weekly action plan and provides an AI-based career-readiness indicator. Its key differentiator is the What-If Career Simulator, which dynamically creates a new pathway when a student changes a constraint. AspiraPath AI is an AI career navigator that answers: Given where I am today, my limitations and my aspirations, what can I realistically do next?"
+}
