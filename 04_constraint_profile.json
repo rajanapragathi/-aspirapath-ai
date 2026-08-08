@@ -1,0 +1,31 @@
+{
+  "constraint_profile": {
+    "financial": [
+      "Maximum education budget",
+      "Monthly learning budget",
+      "Need for financial assistance",
+      "Preference for free or low-cost resources"
+    ],
+    "time": [
+      "Study hours per day",
+      "Days available per week",
+      "Target completion period"
+    ],
+    "geographic": [
+      "Preferred location",
+      "Willingness to relocate",
+      "Online or offline preference"
+    ],
+    "academic": [
+      "Current qualification",
+      "Academic performance",
+      "Required subjects",
+      "Entrance or eligibility requirements"
+    ]
+  },
+  "core_innovation": {
+    "name": "Constraint-Aware Career Engine",
+    "description": "The AI considers the student's real-world limitations and converts each constraint into an impact, workaround or alternative pathway.",
+    "principle": "Constraint -> Impact -> Workaround -> Alternative Pathway"
+  }
+}
