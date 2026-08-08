@@ -1,0 +1,50 @@
+{
+  "responsible_ai": {
+    "principles": [
+      "Transparency",
+      "Fairness",
+      "Privacy",
+      "Safety",
+      "Human oversight"
+    ],
+    "privacy_rules": [
+      "Collect only information necessary for career planning.",
+      "Do not request passwords, bank details or government identification numbers."
+    ],
+    "disclaimer": "AspiraPath AI provides personalized educational and career guidance based on information supplied by the user. Recommendations are not guarantees of admission, employment, salary, certification or career success. Eligibility, fees, scholarships, deadlines and institutional requirements should always be verified through official sources."
+  },
+  "constraints_and_mitigations": [
+    {
+      "constraint": "AI hallucination",
+      "mitigation": "Avoid unsupported factual claims and encourage verification of official information."
+    },
+    {
+      "constraint": "Dynamic information",
+      "mitigation": "Verify current fees, scholarships, deadlines and eligibility through official sources."
+    },
+    {
+      "constraint": "No employment guarantee",
+      "mitigation": "Present recommendations as guidance rather than guaranteed outcomes."
+    },
+    {
+      "constraint": "Incomplete student data",
+      "mitigation": "Identify missing information and explain that recommendations may change."
+    },
+    {
+      "constraint": "Bias",
+      "mitigation": "Provide multiple pathways and alternatives rather than prescribing one route."
+    },
+    {
+      "constraint": "Financial guidance",
+      "mitigation": "Provide planning guidance instead of definitive financial advice."
+    },
+    {
+      "constraint": "Career readiness score",
+      "mitigation": "Present the score only as an AI-generated guidance indicator."
+    },
+    {
+      "constraint": "PartyRock prototype limitations",
+      "mitigation": "Present the solution as a prototype with limited persistence, real-time data and external integrations."
+    }
+  ]
+}
