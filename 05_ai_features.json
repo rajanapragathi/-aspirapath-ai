@@ -1,0 +1,52 @@
+{
+  "features": [
+    {
+      "name": "Career Feasibility Analysis",
+      "purpose": "Evaluate academic, skill, financial, time and geographic suitability."
+    },
+    {
+      "name": "Skill Gap Analysis",
+      "purpose": "Compare current skills with target career requirements."
+    },
+    {
+      "name": "Education Pathway Generator",
+      "purpose": "Generate traditional, skill-first, affordable and alternative pathways."
+    },
+    {
+      "name": "Personalized Learning Roadmap",
+      "purpose": "Create staged learning plans based on the student's available study time."
+    },
+    {
+      "name": "Certification Roadmap",
+      "purpose": "Recommend relevant certification categories without guaranteeing employment."
+    },
+    {
+      "name": "Project Generator",
+      "purpose": "Recommend portfolio projects based on skill level."
+    },
+    {
+      "name": "Scholarship and Financial Guidance",
+      "purpose": "Provide scholarship categories and low-cost alternatives while requiring official verification."
+    },
+    {
+      "name": "Weekly Action Planner",
+      "purpose": "Convert long-term career goals into immediate weekly tasks."
+    },
+    {
+      "name": "Career Readiness Indicator",
+      "purpose": "Provide an AI-generated guidance indicator rather than an employment probability."
+    },
+    {
+      "name": "Alternative Career Paths",
+      "purpose": "Suggest related entry routes when the desired career has significant barriers."
+    },
+    {
+      "name": "Career Risk Analysis",
+      "purpose": "Identify career risks and suggest mitigation."
+    },
+    {
+      "name": "What-If Career Simulator",
+      "purpose": "Recalculate the career pathway when constraints change."
+    }
+  ]
+}
