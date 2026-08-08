@@ -1,0 +1,312 @@
+{
+  "project": {
+    "name": "AspiraPath AI",
+    "tagline": "From Aspiration to Achievable",
+    "platform": "AWS PartyRock",
+    "type": "Generative AI Career and Education Guidance Platform",
+    "target_users": [
+      "Students",
+      "Graduates",
+      "Career switchers",
+      "Educators",
+      "Career counselors"
+    ]
+  },
+
+  "problem_statement": {
+    "title": "Bridging Career Aspiration and Achievable Action",
+    "description": "Students often know what career they want but lack clarity about qualifications, skills, courses, certifications, projects, costs, study time, location requirements and practical next steps.",
+    "key_problem": "Generic career guidance often does not consider an individual student's academic profile, skills, budget, time and geographic constraints."
+  },
+
+  "proposed_solution": {
+    "description": "AspiraPath AI uses Generative AI to analyze a student's profile, career aspiration and constraints and generate a personalized education and career pathway.",
+    "workflow": [
+      "Aspiration",
+      "Analysis",
+      "Skill Gap",
+      "Options",
+      "Roadmap",
+      "Action Plan"
+    ]
+  },
+
+  "student_profile": {
+    "inputs": [
+      "Name",
+      "Age",
+      "Location",
+      "Education",
+      "CGPA or percentage",
+      "Current year or semester",
+      "Subjects",
+      "Technical skills",
+      "Soft skills",
+      "Certifications",
+      "Projects"
+    ]
+  },
+
+  "career_aspiration": {
+    "inputs": [
+      "Dream career",
+      "Target job role",
+      "Preferred industry",
+      "Reason for choosing the career",
+      "Expected timeline"
+    ]
+  },
+
+  "constraint_profile": {
+    "financial": [
+      "Maximum education budget",
+      "Monthly learning budget",
+      "Need for financial assistance",
+      "Preference for free or low-cost resources"
+    ],
+    "time": [
+      "Study hours per day",
+      "Days available per week",
+      "Target completion period"
+    ],
+    "geographic": [
+      "Preferred location",
+      "Willingness to relocate",
+      "Online or offline preference"
+    ],
+    "academic": [
+      "Current qualification",
+      "Academic performance",
+      "Required subjects",
+      "Entrance or eligibility requirements"
+    ]
+  },
+
+  "core_innovation": {
+    "name": "Constraint-Aware Career Engine",
+    "description": "The AI considers the student's real-world limitations and converts each constraint into an impact, workaround or alternative pathway.",
+    "principle": "Constraint -> Impact -> Workaround -> Alternative Pathway"
+  },
+
+  "features": [
+    {
+      "name": "Career Feasibility Analysis",
+      "purpose": "Evaluate academic, skill, financial, time and geographic suitability."
+    },
+    {
+      "name": "Skill Gap Analysis",
+      "purpose": "Compare current skills with target career requirements."
+    },
+    {
+      "name": "Education Pathway Generator",
+      "purpose": "Generate traditional, skill-first, affordable and alternative pathways."
+    },
+    {
+      "name": "Personalized Learning Roadmap",
+      "purpose": "Create staged learning plans based on the student's available study time."
+    },
+    {
+      "name": "Certification Roadmap",
+      "purpose": "Recommend relevant certification categories without guaranteeing employment."
+    },
+    {
+      "name": "Project Generator",
+      "purpose": "Recommend portfolio projects based on skill level."
+    },
+    {
+      "name": "Scholarship and Financial Guidance",
+      "purpose": "Provide scholarship categories and low-cost alternatives while requiring official verification."
+    },
+    {
+      "name": "Weekly Action Planner",
+      "purpose": "Convert long-term career goals into immediate weekly tasks."
+    },
+    {
+      "name": "Career Readiness Indicator",
+      "purpose": "Provide an AI-generated guidance indicator rather than an employment probability."
+    },
+    {
+      "name": "Alternative Career Paths",
+      "purpose": "Suggest related entry routes when the desired career has significant barriers."
+    },
+    {
+      "name": "Career Risk Analysis",
+      "purpose": "Identify career risks and suggest mitigation."
+    },
+    {
+      "name": "What-If Career Simulator",
+      "purpose": "Recalculate the career pathway when constraints change."
+    }
+  ],
+
+  "what_if_scenarios": [
+    {
+      "scenario": "Budget reduced",
+      "example": "Budget changes from ₹50,000 to ₹10,000",
+      "expected_response": "Shift toward free or low-cost learning and explain the effect on the timeline."
+    },
+    {
+      "scenario": "Limited study time",
+      "example": "Student can study only 1 hour per day",
+      "expected_response": "Create a slower but manageable learning roadmap."
+    },
+    {
+      "scenario": "Cannot relocate",
+      "example": "Student cannot move to another city",
+      "expected_response": "Prioritize local, remote and online opportunities."
+    },
+    {
+      "scenario": "Shorter timeline",
+      "example": "Student wants a job within six months",
+      "expected_response": "Prioritize essential skills, portfolio projects and entry-level pathways."
+    }
+  ],
+
+  "partyrock_workflow": [
+    "Student Profile Input",
+    "Career Aspiration Input",
+    "Constraint Profile Input",
+    "AI Career Analysis",
+    "Feasibility Check",
+    "Skill Gap Analysis",
+    "Education and Learning Roadmap",
+    "Project and Certification Guidance",
+    "Weekly Action Plan",
+    "What-If Scenario Analysis"
+  ],
+
+  "partyrock_components": [
+    "Student Profile",
+    "Career Aspiration",
+    "Constraint Analyzer",
+    "Career Analyzer",
+    "Skill Gap Analyzer",
+    "Education Planner",
+    "Certification Planner",
+    "Project Generator",
+    "Scholarship Advisor",
+    "Career Roadmap",
+    "Weekly Planner",
+    "Readiness Score",
+    "What-If Simulator"
+  ],
+
+  "ai_prompt_principles": [
+    "Use the student's profile instead of generic recommendations.",
+    "Never ignore budget, time, location or eligibility constraints.",
+    "Explain why each major recommendation was generated.",
+    "Do not guarantee admission, employment, salary, certification or career success.",
+    "Do not invent scholarships, fees, deadlines or eligibility requirements.",
+    "Clearly distinguish known information, assumptions and missing information.",
+    "Recommend multiple pathways when appropriate."
+  ],
+
+  "responsible_ai": {
+    "principles": [
+      "Transparency",
+      "Fairness",
+      "Privacy",
+      "Safety",
+      "Human oversight"
+    ],
+    "privacy_rules": [
+      "Collect only information necessary for career planning.",
+      "Do not request passwords, bank details or government identification numbers."
+    ],
+    "disclaimer": "AspiraPath AI provides personalized educational and career guidance based on information supplied by the user. Recommendations are not guarantees of admission, employment, salary, certification or career success. Eligibility, fees, scholarships, deadlines and institutional requirements should always be verified through official sources."
+  },
+
+  "constraints_and_mitigations": [
+    {
+      "constraint": "AI hallucination",
+      "mitigation": "Avoid unsupported factual claims and encourage verification of official information."
+    },
+    {
+      "constraint": "Dynamic information",
+      "mitigation": "Verify current fees, scholarships, deadlines and eligibility through official sources."
+    },
+    {
+      "constraint": "No employment guarantee",
+      "mitigation": "Present recommendations as guidance rather than guaranteed outcomes."
+    },
+    {
+      "constraint": "Incomplete student data",
+      "mitigation": "Identify missing information and explain that recommendations may change."
+    },
+    {
+      "constraint": "Bias",
+      "mitigation": "Provide multiple pathways and alternatives rather than prescribing one route."
+    },
+    {
+      "constraint": "Financial guidance",
+      "mitigation": "Provide planning guidance instead of definitive financial advice."
+    },
+    {
+      "constraint": "Career readiness score",
+      "mitigation": "Present the score only as an AI-generated guidance indicator."
+    },
+    {
+      "constraint": "PartyRock prototype limitations",
+      "mitigation": "Present the solution as a prototype with limited persistence, real-time data and external integrations."
+    }
+  ],
+
+  "example_user": {
+    "education": "B.Sc. Computer Science",
+    "percentage": 65,
+    "programming": "Basic Python",
+    "budget": "₹15,000",
+    "study_time": "2 hours/day",
+    "location": "Andhra Pradesh",
+    "relocation": "No",
+    "goal": "AI Engineer"
+  },
+
+  "example_roadmap": [
+    "Python",
+    "Data Structures",
+    "Mathematics",
+    "Machine Learning",
+    "Deep Learning",
+    "Generative AI",
+    "Projects",
+    "Portfolio",
+    "Internship",
+    "AI Engineer pathway"
+  ],
+
+  "expected_impact": [
+    "Give students clarity and actionable career direction.",
+    "Help parents understand realistic education pathways.",
+    "Support teachers and career counselors with structured guidance.",
+    "Provide accessible pathways for students facing financial, time or location constraints."
+  ],
+
+  "future_scope": [
+    "Student accounts and progress tracking",
+    "Course catalog integration",
+    "Scholarship database integration",
+    "Job platform integration",
+    "College dashboards",
+    "Multilingual support",
+    "Real-time verified career information",
+    "RAG-based knowledge retrieval",
+    "Institutional integration"
+  ],
+
+  "hackathon_demo_flow": [
+    "Enter student profile",
+    "Enter the aspiration: I want to become an AI Engineer",
+    "Show career feasibility analysis",
+    "Show skill-gap analysis",
+    "Show personalized roadmap",
+    "Change budget from ₹50,000 to ₹10,000",
+    "Run the What-If Simulator",
+    "Show the revised low-cost pathway",
+    "Show the next 7-day action plan"
+  ],
+
+  "innovation_statement": "AspiraPath AI is a constraint-aware Generative AI career navigator that dynamically converts a student's aspirations and real-world limitations into personalized education, skill and career pathways.",
+
+  "pitch": "Every student has a dream, but not every student knows the path to reach it. AspiraPath AI takes a student's aspiration, academic profile, skills, budget, time and location constraints and transforms them into a personalized career roadmap. It identifies skill gaps, recommends education pathways, projects and certification categories, creates a weekly action plan and provides an AI-based career-readiness indicator. Its key differentiator is the What-If Career Simulator, which dynamically creates a new pathway when a student changes a constraint. AspiraPath AI is an AI career navigator that answers: Given where I am today, my limitations and my aspirations, what can I realistically do next?"
+}
