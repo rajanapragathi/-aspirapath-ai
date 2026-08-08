@@ -1,0 +1,17 @@
+{
+  "student_profile": {
+    "inputs": [
+      "Name",
+      "Age",
+      "Location",
+      "Education",
+      "CGPA or percentage",
+      "Current year or semester",
+      "Subjects",
+      "Technical skills",
+      "Soft skills",
+      "Certifications",
+      "Projects"
+    ]
+  }
+}
