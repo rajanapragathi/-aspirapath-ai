@@ -132,3 +132,10 @@ aspirapath-ai/
 ├── README.md
 │
 └── aspirapath-ai.json
+## Live Demo
+
+### AWS PartyRock App
+
+Try the live AspiraPath AI Career Roadmap Builder:
+
+[Launch AspiraPath AI on AWS PartyRock](https://partyrock.aws/u/RajanaPragathi/j2BzDwqRYz/AspiraPath-AI-Career-Guidance-Platform)
