@@ -1,0 +1,38 @@
+{
+  "partyrock_workflow": [
+    "Student Profile Input",
+    "Career Aspiration Input",
+    "Constraint Profile Input",
+    "AI Career Analysis",
+    "Feasibility Check",
+    "Skill Gap Analysis",
+    "Education and Learning Roadmap",
+    "Project and Certification Guidance",
+    "Weekly Action Plan",
+    "What-If Scenario Analysis"
+  ],
+  "partyrock_components": [
+    "Student Profile",
+    "Career Aspiration",
+    "Constraint Analyzer",
+    "Career Analyzer",
+    "Skill Gap Analyzer",
+    "Education Planner",
+    "Certification Planner",
+    "Project Generator",
+    "Scholarship Advisor",
+    "Career Roadmap",
+    "Weekly Planner",
+    "Readiness Score",
+    "What-If Simulator"
+  ],
+  "ai_prompt_principles": [
+    "Use the student's profile instead of generic recommendations.",
+    "Never ignore budget, time, location or eligibility constraints.",
+    "Explain why each major recommendation was generated.",
+    "Do not guarantee admission, employment, salary, certification or career success.",
+    "Do not invent scholarships, fees, deadlines or eligibility requirements.",
+    "Clearly distinguish known information, assumptions and missing information.",
+    "Recommend multiple pathways when appropriate."
+  ]
+}
