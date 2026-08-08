@@ -1,0 +1,30 @@
+{
+  "example_user": {
+    "education": "B.Sc. Computer Science",
+    "percentage": 65,
+    "programming": "Basic Python",
+    "budget": "₹15,000",
+    "study_time": "2 hours/day",
+    "location": "Andhra Pradesh",
+    "relocation": "No",
+    "goal": "AI Engineer"
+  },
+  "example_roadmap": [
+    "Python",
+    "Data Structures",
+    "Mathematics",
+    "Machine Learning",
+    "Deep Learning",
+    "Generative AI",
+    "Projects",
+    "Portfolio",
+    "Internship",
+    "AI Engineer pathway"
+  ],
+  "expected_impact": [
+    "Give students clarity and actionable career direction.",
+    "Help parents understand realistic education pathways.",
+    "Support teachers and career counselors with structured guidance.",
+    "Provide accessible pathways for students facing financial, time or location constraints."
+  ]
+}
