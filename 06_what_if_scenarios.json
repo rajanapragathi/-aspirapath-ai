@@ -1,0 +1,24 @@
+{
+  "what_if_scenarios": [
+    {
+      "scenario": "Budget reduced",
+      "example": "Budget changes from ₹50,000 to ₹10,000",
+      "expected_response": "Shift toward free or low-cost learning and explain the effect on the timeline."
+    },
+    {
+      "scenario": "Limited study time",
+      "example": "Student can study only 1 hour per day",
+      "expected_response": "Create a slower but manageable learning roadmap."
+    },
+    {
+      "scenario": "Cannot relocate",
+      "example": "Student cannot move to another city",
+      "expected_response": "Prioritize local, remote and online opportunities."
+    },
+    {
+      "scenario": "Shorter timeline",
+      "example": "Student wants a job within six months",
+      "expected_response": "Prioritize essential skills, portfolio projects and entry-level pathways."
+    }
+  ]
+}
