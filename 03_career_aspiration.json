@@ -1,0 +1,11 @@
+{
+  "career_aspiration": {
+    "inputs": [
+      "Dream career",
+      "Target job role",
+      "Preferred industry",
+      "Reason for choosing the career",
+      "Expected timeline"
+    ]
+  }
+}
